@@ -65,7 +65,7 @@ MIT, see [LICENSE](LICENSE). Third-party software and licenses are listed in
 [MarkItDown](https://github.com/microsoft/markitdown) مفتوحة المصدر من Microsoft،
 فلا تحتاج إلى كتابة أي أمر.
 
-> MarkGUI مشروع مستقل، **غير تابع لشركة Microsoft ولا مدعوم أو معتمد منها**.
+> MarkGUI مشروع مستقل، **غير تابع لشركة مايكروسوفت ولا مدعوم أو معتمد منها**.
 
 ## المزايا
 
